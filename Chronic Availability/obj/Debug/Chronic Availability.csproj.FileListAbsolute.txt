@@ -1,0 +1,58 @@
+E:\root\programs with me\Chronic Availability\Chronic Availability\bin\Debug\Chronic Availability.exe.config
+E:\root\programs with me\Chronic Availability\Chronic Availability\bin\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability\Chronic Availability\bin\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic Availability.csprojResolveAssemblyReference.cache
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic_Availability.Properties.Resources.resources
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic Availability.csproj.GenerateResource.Cache
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic Availability.csproj.CoreCompileInputs.cache
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability\Chronic Availability\obj\Debug\Chronic_Availability.chronic.resources
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic Availability.csprojResolveAssemblyReference.cache
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic_Availability.chronic.resources
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic_Availability.Properties.Resources.resources
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.GenerateResource.Cache
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.CoreCompileInputs.cache
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe.config
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\bin\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.ResolveComReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csprojResolveAssemblyReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.ResolveComReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.chronic.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.Properties.Resources.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.GenerateResource.Cache
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.CoreCompileInputs.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe.config
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe.config
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.ResolveComReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.chronic.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.Properties.Resources.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.GenerateResource.Cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.CoreCompileInputs.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csprojResolveAssemblyReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.logenForm.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.mainForm.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe.config
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\bin\Debug\Chronic Availability.pdb
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csprojResolveAssemblyReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.ResolveComReference.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.chronic.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.logenForm.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.mainForm.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic_Availability.Properties.Resources.resources
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.GenerateResource.Cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.csproj.CoreCompileInputs.cache
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.exe
+E:\root\programs with me\Chronic Availability - Copy - Copy - Copy - Copy\Chronic Availability\obj\Debug\Chronic Availability.pdb
